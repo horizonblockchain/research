@@ -1,2 +1,0 @@
-# research
-economic research doc
